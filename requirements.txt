@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy
+PyPDF2
+sentence-transformers
+faiss-cpu
+transformers
+torch
+streamlit
+plotly

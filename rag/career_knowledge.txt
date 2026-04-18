@@ -1,0 +1,18 @@
+Career Guidance Rules and Insights
+
+# Machine Learning and Data Science
+To enter the machine learning field, you must be proficient in Python, mathematics, linear algebra, and libraries like scikit-learn, TensorFlow, or PyTorch. Ensure you have strong SQL skills and pandas.
+To improve placement chances in data science, increase your internship count and build portfolio projects showcasing real-world problem solving.
+If your CGPA is below 7.0, focus heavily on certifications and unique open-source projects to cover the academic gap.
+
+# Software Engineering
+Software engineering requires strong fundamentals in Data Structures and Algorithms (DSA). You should be fluent in languages like Java, C++, or Python.
+If you have low internship experience, prioritize contributing to open source or building a comprehensive full-stack project (e.g., using React and Node.js).
+Web development roles prefer candidates with demonstrable frontend (HTML, CSS, JS, React) and backend skills (Node, Express, Databases).
+
+# General Placement Advice
+Aptitude test scores above 80 significantly boost your chances of clearing the first round. Practice quantitative and logical reasoning questions daily.
+Soft skills are critical. A rating below 4.0 out of 5 indicates a need for communication training. Participate in group discussions and mock interviews.
+Extracurricular activities and leadership roles in college clubs highlight teamwork and management potential, which is highly valued by top-tier companies.
+Placement training is mandatory for all students aiming for campus placements. Ensure 100% attendance.
+For companies with a CGPA cutoff of 8.0, do not lose hope if you fall short; many startups value skills over academic scores. Try applying off-campus.
